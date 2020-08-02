@@ -3,8 +3,14 @@
 ## I'm Ken ([wasd0109](https://github.com/wasd0109))
 
 I am from Hong Kong, currently studying at Tokyo Institute of Technology.
+
+
 **But I am also a self-taught programmer!**
+
+
 I am hoping to hone my skills as a programmer during my study!
+
+
 Follow me on **[Twitter](https://twitter.com/tsuguminxken)** and lets talk about programming _or about my **[oshi](https://toyota-team8.jp/member/onoue_mizuki.php)**_ !!
 
 ### My Current Plan
