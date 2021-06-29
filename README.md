@@ -15,7 +15,7 @@ Follow me on **[Twitter](https://twitter.com/tsuguminxken)** and lets talk about
 
 ### My Current Plan
 
-- [ ] Arrive at Japan (Yes, I'm stuck at Hong Kong because of you know why)
+- [X] Arrive at Japan (Yes, I'm stuck at Hong Kong because of you know why)
 - [ ] Practice with my programming skills
 - [ ] Finish my post-graduate study
 - [ ] Become master programmer and cancer biologist!
