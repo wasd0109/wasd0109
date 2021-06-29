@@ -11,7 +11,7 @@ I am from Hong Kong, currently studying at Tokyo Institute of Technology.
 I am hoping to hone my skills as a programmer during my study!
 
 
-Follow me on **[Twitter](https://twitter.com/tsuguminxken)** and lets talk about programming _or about my **[oshi](https://toyota-team8.jp/member/onoue_mizuki.php)**_ !!
+Follow me on **[Twitter](https://twitter.com/kenatcoder)** and lets talk about programming _or about my **[oshi](https://toyota-team8.jp/member/onoue_mizuki.php)**_ !!
 
 ### My Current Plan
 
