@@ -11,11 +11,11 @@ I am from Hong Kong, currently studying at Tokyo Institute of Technology.
 I am hoping to hone my skills as a programmer during my study!
 
 
-Follow me on **[Twitter](https://twitter.com/kenatcoder)** and lets talk about programming _or about my **[oshi](https://toyota-team8.jp/member/onoue_mizuki.php)**_ !!
+Follow me on **[Twitter](https://twitter.com/kenatcoder)** and visit my **[blog](https://http://wasd0109ken.engineer)** if you have time!
 
 ### My Current Plan
 
-- [X] Arrive at Japan (Yes, I'm stuck at Hong Kong because of you know why)
+- [X] Arrive at Japan
 - [ ] Practice with my programming skills
 - [ ] Finish my post-graduate study
 - [ ] Become master programmer and cancer biologist!
