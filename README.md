@@ -1,7 +1,3 @@
-### Hi there 👋
-
-## I'm Ken ([wasd0109](https://github.com/wasd0109))
-
 Currently working at Application Engineering at Rakuten Group Inc.
 
 
