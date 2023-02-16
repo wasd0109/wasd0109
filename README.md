@@ -1,4 +1,4 @@
-Currently working at Application Engineering at Rakuten Group Inc.
+Currently working as Application Engineering at Rakuten Group Inc.
 
 
 <!--
